@@ -1,0 +1,4 @@
+Apple is a fruit.
+Bat and ball are sports items.
+Cat could climb.
+Dog digs daily.
