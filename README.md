@@ -11,7 +11,7 @@
    python main.py --role proposerTwo --range N-Z --port 5006
 
    # Acceptor
-   python script.py --role acceptor --port 5003
+   python main.py --role acceptor --port 5003
 
    # AcceptorTwo
    python main.py --role acceptorTwo --port 5005
